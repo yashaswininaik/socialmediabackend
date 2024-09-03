@@ -21,7 +21,7 @@ This repository contains the backend APIs for a social media application. It pro
 
 1. **Clone the Repository**: 
     ```bash
-    git clone https://github.com/officialvikramsuthar/socialmediabackend.git
+    git clone https://github.com/yashaswininaik/socialmediabackend.git
     ```
 
 2. **Build and Run Docker Compose**: 

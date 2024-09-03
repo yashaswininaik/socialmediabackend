@@ -17,8 +17,8 @@ services:
     ports:
       - "8001:5432"
     environment:
-      POSTGRES_USER: vikram
-      POSTGRES_PASSWORD: vikram9890
+      POSTGRES_USER: yashaswini
+      POSTGRES_PASSWORD: yashaswini123
       POSTGRES_DB: social_media
 
 volumes:
